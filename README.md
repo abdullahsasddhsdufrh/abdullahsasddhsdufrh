@@ -1,56 +1,60 @@
-# ⚡ Abdullah Jamshaid | Full-Stack AI Developer
+# ⚡ Abdullah Jamshaid | Full-Stack AI Developer 👾
 
-> "Turning complex logic into seamless user experiences." 🚀
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdullahsasddhsdufrh&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
 
-I am a **BSIT Student at PUCIT** (2024-2028) and a passionate developer. I specialize in bridging the gap between robust **MERN Stack** applications and **Machine Learning** intelligence.
+> **"Bridging the gap between Low-Level Logic and High-Level Intelligence."** > I am a **BSIT Student at PUCIT** (2024-2028) specializing in the MERN Stack and Agentic AI Systems.
 
 ---
 
 ### 🎒 Inventory (Tech Stack)
 
-| Category | Skills |
+| Skill Tree | Technologies |
 | :--- | :--- |
-| **🧠 AI & Data** | Python, Machine Learning, TensorFlow, Pandas |
-| **🌐 Web Dev** | React.js, Node.js, Express, MongoDB, Bootstrap |
-| **⚙️ Core Logic** | C++, Java, Data Structures, OOP |
-| **🛠️ Tools** | Git, GitHub, Vercel, VS Code |
+| **🧠 Artificial Intelligence** | Python, Machine Learning, LangGraph, smolagents, Hugging Face |
+| **🌐 Full Stack Web** | React.js (Vite), Node.js, Express, MongoDB, Bootstrap |
+| **⚙️ Systems & Logic** | C++, Java, Data Structures, OOP |
+| **💾 Data Architecture** | MySQL, Firebase, RESTful APIs |
 
 ---
 
 ### 🗺️ Quest Log (Featured Projects)
 
-#### 🛒 [E-Commerce Hub with AI Chatbot](https://ecomm-project-liard.vercel.app/)
-* **Status:** ✅ Mission Complete
-* **Depth:** Built a full MERN storefront featuring secure JWT auth and an integrated AI assistant for real-time customer support.
-* **Stack:** React, Node.js, MongoDB, Bootstrap.
-
-#### 🏥 [Pharmacy Management System](https://github.com/your-username/pharmacy-sys)
-* **Status:** ✅ Mission Complete
-* **Depth:** A desktop application managing inventory, sales, and prescriptions with high-level object-oriented architecture.
-* **Stack:** Java, MySQL.
-
-#### ♟️ [C++ Chess Engine](https://github.com/your-username/chess-cpp)
-* **Status:** 🏆 Level Mastered
-* **Depth:** Implemented complex game logic, move validation, and manual memory management without external engines.
-* **Stack:** C++, OOP.
-
 #### 🌪️ [Agentic Climate Risk System](https://climate-risk-agent.vercel.app/)
-* **Status:** 🧪 In Development
-* **Depth:** Using LangGraph and Hugging Face agents to predict environmental hazards.
-* **Stack:** FastAPI, React, LangGraph.
+* **Status:** 🛠️ In Development (Alpha)
+* **Depth:** A multi-agent system using **LangGraph** to predict environmental hazards.
+* **Stack:** FastAPI, React, Hugging Face.
+
+#### 🛒 [The Merchant's Hub (E-Comm)](https://ecomm-project-liard.vercel.app/)
+* **Status:** ✅ Mission Complete
+* **Depth:** Full-stack commercial platform with JWT Auth and an integrated AI Chatbot.
+* **Stack:** MERN Stack, Bootstrap.
+
+#### 🏥 [Pharmacy Management System](https://github.com/abdullahsasddhsdufrh)
+* **Status:** ✅ Mission Complete
+* **Depth:** High-performance Java desktop app for inventory and prescription tracking.
+* **Stack:** Java, MySQL.
 
 ---
 
 ### 📊 Player Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdullahsasddhsdufrh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsasddhsdufrh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Activity
+![Snake Animation](https://github.com/abdullahsasddhsdufrh/abdullahsasddhsdufrh/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🤝 Let's Collaborate!
-* 📧 **Email:** mabdullahjamshaid31@gmail.com
-* 💼 **LinkedIn:** [Your Profile Link Here]
-* 💬 **Ask me about:** React, C++ debugging, or why my AI chatbot is being sassy.
+* 📧 **Email:** [mabdullahjamshaid31@gmail.com](mailto:mabdullahjamshaid31@gmail.com)
+* 🎓 **University:** Punjab University of Information Technology (PUCIT)
+* 💬 **Ask me about:** C++, MERN bugs, or AI Agents.
 
-**"Press Start to build something great together!"** 👾
+**"Press Start to collaborate!"** 🕹️
