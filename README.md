@@ -39,15 +39,14 @@ I am a **BSIT Student at PUCIT** 🎓 (Class of 2028). I specialize in building 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### ⚙️ Systems & Databases
+#### 💾 Data Architecture & Core Systems
 <p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
@@ -72,9 +71,10 @@ I am a **BSIT Student at PUCIT** 🎓 (Class of 2028). I specialize in building 
 
 ---
 
-### 🏗️ 3D World Activity (Contribution Graph)
+### 🏗️ 3D Neural Activity (Grid Animation)
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahsasddhsdufrh&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahsasddhsdufrh&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahsasddhsdufrh&theme=tokyonight" width="45%" />
 </p>
 
 ---
@@ -86,9 +86,9 @@ I am a **BSIT Student at PUCIT** 🎓 (Class of 2028). I specialize in building 
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20code%20it." />
 </p>
 
 <p align="center">
-  <b>System Online. Press Start to Collaborate!</b> 🕹️
+  <b>System Online. Reality is just a draft. 🕹️</b>
 </p>
